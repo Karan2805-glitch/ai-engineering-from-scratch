@@ -137,3 +137,9 @@ site/manuals.html
 .project-validation/
 projects/*/solution/output/
 projects/*/solution/demo-output/
+
+# AI model checkpoints
+*.pt
+*.pth
+*.safetensors
+*.ckpt
