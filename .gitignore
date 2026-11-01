@@ -143,3 +143,10 @@ projects/*/solution/demo-output/
 *.pth
 *.safetensors
 *.ckpt
+
+# Downloaded AI datasets and model artifacts
+*.parquet
+*.csv
+
+# Generated dataset format experiments
+/data_format_demo/
